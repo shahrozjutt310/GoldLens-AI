@@ -1,2 +1,6 @@
-# GoldLens-AI
-GoldLens AI Android app for gold market analysis in Kotlin Compose.
+package com.goldlensai.ui.theme
+
+import androidx.compose.material3.Typography
+
+val Typography = Typography()
+
